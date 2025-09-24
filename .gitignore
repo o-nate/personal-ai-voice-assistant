@@ -1,3 +1,13 @@
+### AWS SAM ###
+.aws-sam/
+packaged.yaml
+
+
+/documents
+/summary_index
+*.json
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
