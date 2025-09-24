@@ -1,4 +1,4 @@
-# personal-ai-voice-assistant
+# Personal AI-powered Voice Assistant
 A private, locally hosted AI-powered voice assistant for your mobile device.
 
 ## Setup
